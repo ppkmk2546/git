@@ -8,5 +8,9 @@
     <p>
       <a href="https://nuxt.com/docs/getting-started/introduction" target="_blank">Documentation</a>
     </p>
+    <br>
+    <p>
+      <a href="https://nuxt.com/docs/getting-started/installation" target="_blank">Installation</a>
+    </p>
   </div>
 </template>

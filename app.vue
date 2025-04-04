@@ -4,5 +4,9 @@
     <p>
       Hello Nuxt 3 + Vite + TS + Tailwind CSS
     </p>
+    <br>
+    <p>
+      <a href="https://nuxt.com/docs/getting-started/introduction" target="_blank">Documentation</a>
+    </p>
   </div>
 </template>

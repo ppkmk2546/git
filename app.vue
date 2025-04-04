@@ -8,13 +8,5 @@
     <p>
       <a href="https://nuxt.com/docs/getting-started/introduction" target="_blank">Documentation</a>
     </p>
-  
-
-
-
-
-    <p>
-      edit <code>app.vue</code> to test hot reloading.
-    </p>
   </div>
 </template>

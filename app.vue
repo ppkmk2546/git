@@ -12,5 +12,15 @@
     <p>
       <a href="https://nuxt.com/docs/getting-started/installation" target="_blank">Installation</a>
     </p>
+    <br>
+    <p>
+      add your own content here
+    </p>
+    <br>
+    <p>
+      sign in to your account
+    </p>
   </div>
+
+
 </template>

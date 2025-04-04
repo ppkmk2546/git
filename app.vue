@@ -20,7 +20,9 @@
     <p>
       sign in to your account
     </p>
+    <br>
+    <p>
+      <a href="https://nuxt.com/docs/getting-started/installation#using-npx" target="_blank">Using npx</a>
+    </p>
   </div>
-
-
 </template>

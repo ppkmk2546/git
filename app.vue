@@ -24,5 +24,9 @@
     <p>
       <a href="https://nuxt.com/docs/getting-started/installation#using-npx" target="_blank">Using npx</a>
     </p>
+    <br>
+    <p>
+      <a href="https://nuxt.com/docs/getting-started/installation#using-npm" target="_blank">Using npm</a>
+    </p>
   </div>
 </template>

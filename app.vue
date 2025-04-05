@@ -28,5 +28,14 @@
     <p>
       <a href="https://nuxt.com/docs/getting-started/installation#using-npm" target="_blank">Using npm</a>
     </p>
+    <br>
+    <p>
+      <a href="https://nuxt.com/docs/getting-started/installation#using-yarn" target="_blank">Using yarn</a>
+    </p>
+    <br>
+    <p>
+      <a href="https://nuxt.com/docs/getting-started/installation#using-pnpm" target="_blank">Using pnpm</a>
+    </p>
+
   </div>
 </template>

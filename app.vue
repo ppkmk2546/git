@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h1>Hello world</h1>
+    <h1 class="text-center">Hello world</h1>
     <p>
       Hello Nuxt 3 + Vite + TS + Tailwind CSS
     </p>
@@ -20,7 +20,9 @@
     <p>
       sign in to your account
     </p>
+    <br>
+    <p>
+      <a href="https://nuxt.com/docs/getting-started/installation#using-npx" target="_blank">Using npx</a>
+    </p>
   </div>
-
-
 </template>
